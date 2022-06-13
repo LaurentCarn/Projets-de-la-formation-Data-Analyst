@@ -1,7 +1,8 @@
 Ce projet consistait en la réalisation d'une Histoire Tableau comme outil d'aide à la décision pour une ONG, afin de lui permettre de sélectionner les pays prioritaires pour leur intervention, selon plusieurs critères pré-établis et dans le cadre de leurs trois domaines d'expertise.
 
-Au préalable, il fallait faire une synthèse du besoin exprimé. La mindmap interactive que j'ai créée pour cela est accessible sur le lien suivant :
+Au préalable, il fallait faire une synthèse du besoin exprimé. La mindmap que j'ai créée pour cela est interactive : il faut cliquer sur les noeuds dans le sens horaire afin de développer la synhèse du besoin comme une roadmap de la réalisation de l'outil. Elle est accessible sur le lien suivant :
 https://mm.tt/map/2154533375?t=LpMcLKsJDX
+
 
 De mon point de vue; la contrainte imposée pour une Histoire Tableau n'était pas le plus adapté : les effets des actions sur les filtres ne sont pas conservés lorsque l'on passe d'un Dashboard de l'Histoire à l'autre.
 Travailler sous contrainte est toujours un bon challenge, cela m'a poussé à optimiser les filtres et les paramètres de mes Dashboards !
